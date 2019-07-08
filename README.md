@@ -1,6 +1,10 @@
 # color_palletes
 nice combinations of colors
 
+## 2019-07-08
+![](imgs/kibana-colors.jpg)
+
+
 ## 2017-12-19
 ![color_temp_chart_in_Kelvins.jpg](imgs/color_temp_chart_in_Kelvins.jpg)
 
