@@ -1,6 +1,9 @@
 # color_palletes
 nice combinations of colors
 
+## 2020-05-06
+![](imgs/ms-teams-inspiration.jpg)
+
 ## 2019-07-08
 ![](imgs/kibana-colors.jpg)
 
