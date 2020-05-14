@@ -1,6 +1,9 @@
 # color_palletes
 nice combinations of colors
 
+## 2020-05-15
+![](imgs/2020-05-15.jpg)
+
 ## 2020-05-06
 ![](imgs/ms-teams-inspiration.jpg)
 
