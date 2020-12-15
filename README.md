@@ -1,4 +1,4 @@
-# color_palletes
+# colors
 nice combinations of colors
 
 ## 2020-12-15
