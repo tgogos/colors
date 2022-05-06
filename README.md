@@ -1,6 +1,9 @@
 # colors
 nice combinations of colors
 
+## 2022-05-06
+![](imgs/2022-05-06_railsconf-2022-colors.jpg)
+
 ## 2020-12-15
 ![](imgs/2020-12-15.jpg)
 
